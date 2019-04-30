@@ -2,10 +2,12 @@
 //
 
 #include "pch.h"
+#include"test_head_file.h"
 #include <iostream>
 
 int main()
 {
+	printf("aa\n");
     std::cout << "Hello World!\n"; 
 }
 
